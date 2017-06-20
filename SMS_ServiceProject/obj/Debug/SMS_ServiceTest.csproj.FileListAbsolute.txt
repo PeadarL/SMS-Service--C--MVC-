@@ -1,0 +1,39 @@
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\ApplicationInsights.config
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\SMS_ServiceProject.dll.config
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\SMS_ServiceProject.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\SMS_ServiceProject.pdb
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\SMS Service.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.Helpers.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.Mvc.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.Razor.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.WebPages.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.WebPages.Razor.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.Optimization.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\SMS Service.pdb
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\SMS Service.dll.config
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.Helpers.xml
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.Mvc.xml
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.Razor.xml
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.WebPages.xml
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.WebPages.Razor.xml
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\System.Web.Optimization.xml
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\de\System.Web.Helpers.resources.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\de\System.Web.Mvc.resources.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\de\System.Web.Razor.resources.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\de\System.Web.WebPages.resources.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\de\System.Web.WebPages.Deployment.resources.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\de\System.Web.WebPages.Razor.resources.dll
+C:\C#\SMS Service\SMS_ServiceProject\bin\Debug\de\System.Web.Optimization.resources.dll
+C:\C#\SMS Service\SMS_ServiceProject\obj\Debug\SMS_ServiceTest.csprojResolveAssemblyReference.cache
+C:\C#\SMS Service\SMS_ServiceProject\obj\Debug\SMS_ServiceProject.dll
+C:\C#\SMS Service\SMS_ServiceProject\obj\Debug\SMS_ServiceProject.pdb

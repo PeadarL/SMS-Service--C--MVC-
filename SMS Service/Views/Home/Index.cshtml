@@ -1,0 +1,17 @@
+﻿@using SMS_Service.Models;
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Send A Message From Here!</h1>
+</div>
+@ViewBag.FormMessage
+
+
+<form method="post">
+    <textarea name="sentMessage"></textarea>
+    <textarea name="areaCode">@ViewBag.areaCode</textarea>
+    <textarea name="mobileNumber">@ViewBag.mobileNumber</textarea>
+    <input type="submit" value="send" />
+</form>

@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Contacts";
+}
+
+<h2>Contact List</h2>
+<p>
+    <ul>
+        @foreach (var contact in ViewBag.contacts)
+        {
+            <li>@contact.foreName @contact.surName @contact.areaCode @contact.mobileNumber</li>
+                    <li><button>@Html.ActionLink("Send Message", "Index", "Home", new {contactID = contact.foreName},null)</button></li> //, passes the current contact to the linked page
+        }
+    </ul>
+</p>
